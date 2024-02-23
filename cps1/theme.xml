@@ -1,0 +1,32 @@
+<theme>
+	<formatVersion>7</formatVersion>
+	<include>./../theme.xml</include>
+
+		<view name="system, basic, detailed, video, grid, gamecarousel">
+			<image name="logo">
+				<path>./_inc/system.png</path>
+			</image>
+			
+		<text name="TextDescLong" extra="true">
+				<text>The CP System (CPS for short and retroactively known as CPS-1) is an arcade system board developed by Capcom that ran game software stored on removable daughterboards. More than two dozen arcade titles were released for CPS-1, before Capcom shifted game development over to its successor, the CP System II.</text>
+		</text>
+
+		<text name="TextDescShort" extra="true">
+				<text>The CP System is an arcade system board developed by Capcom that ran game software stored on removable daughterboards.</text>
+		</text>
+		
+		<text name="TextDescName" extra="true">
+				<text>CP System 1</text>
+		</text>
+
+		<text name="TextDescCategory" extra="true">
+				<text>Arcade</text>
+		</text>	
+
+		<text name="TextDescYear" extra="true">
+				<text>1988</text>
+		</text>			
+		
+	</view>	
+	
+</theme>

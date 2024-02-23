@@ -1,0 +1,32 @@
+<theme>
+	<formatVersion>7</formatVersion>
+	<include>./../theme.xml</include>
+
+		<view name="system, basic, detailed, video, grid, gamecarousel">
+			<image name="logo">
+				<path>./_inc/system.png</path>
+			</image>
+			
+		<text name="TextDescLong" extra="true">
+				<text>The CP System III or CPS-3 is an arcade system board that was first used by Capcom in 1996 with the arcade game Red Earth. It was the second successor to the CP System arcade hardware, following the CP System II. It would be the last proprietary system board Capcom would produce before moving on to the Dreamcast-based Naomi platform.</text>
+		</text>
+
+		<text name="TextDescShort" extra="true">
+				<text>The CP System III or CPS-3 is an arcade system board that was first used by Capcom in 1996 with the arcade game Red Earth.</text>
+		</text>
+		
+		<text name="TextDescName" extra="true">
+				<text>CP System 3</text>
+		</text>
+
+		<text name="TextDescCategory" extra="true">
+				<text>Arcade</text>
+		</text>	
+
+		<text name="TextDescYear" extra="true">
+				<text>1996</text>
+		</text>			
+		
+	</view>	
+	
+</theme>
