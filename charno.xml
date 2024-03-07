@@ -1,0 +1,17 @@
+<theme>
+   <formatVersion>7</formatVersion>
+
+      <view name="system">
+		<text name="TextDescName" extra="true">
+			<color>000000</color>
+		</text> 
+		       
+		<text name="TextDescLong" extra="true">
+			<color>464646</color>
+		</text>   
+	      
+      <image name="background27" extra="true">               
+         <path>./_inc/images/blank.png</path>      
+      </image>                         	   			 
+    </view> 	   
+    </theme>

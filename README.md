@@ -1,1 +1,0 @@
-This theme is for Batocera on Raspberri Pi. Was desigend around systems available on the Wolfanoz 512GB Link to the Past image. So it will not cater for otehr systems and collections unless I add them over time.

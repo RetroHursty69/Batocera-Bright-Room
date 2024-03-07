@@ -1,0 +1,225 @@
+<theme>
+   <formatVersion>7</formatVersion>
+
+      <view name="system">
+         <carousel name="systemcarousel">
+          <zIndex>400</zIndex>	      
+          <type>vertical</type>
+          <pos>0.695 0</pos>
+          <size>0.27 1</size>
+          <logoSize>0.2 0.2</logoSize>
+          <color>00000000</color>
+          <maxLogoCount>7</maxLogoCount>
+          <logoAlignment>center</logoAlignment>                        
+         </carousel>
+         
+		<image name="logo">
+		<linearSmooth>true</linearSmooth>
+			<storyboard event="activate">
+				<animation property="x" to="1" begin="4000" duration="1000" mode="EaseIn"/>
+				<animation property="opacity" from="0" to="1" duration="150" mode="Linear"/>
+				<animation property="opacity" from="1" to="1" begin="1150" duration="35" mode="Linear"/>
+			</storyboard>
+			<storyboard event="scroll">
+				<animation property="x" to="1" begin="4000" duration="1000" mode="EaseIn"/>
+				<animation property="opacity" from="0" to="1" duration="150" mode="Linear"/>
+				<animation property="opacity" from="1" to="1" begin="1150" duration="35" mode="Linear"/>
+			</storyboard>
+			<storyboard event="deactivate">
+				<animation property="x" to="1" begin="4000" duration="1000" mode="EaseIn"/>
+				<animation property="opacity" from="0" to="1" duration="150" mode="Linear"/>
+				<animation property="opacity" from="1" to="1" begin="1150" duration="35" mode="Linear"/>
+			</storyboard>
+		</image> 
+		         
+      <text name="systemInfo">     
+         <pos>0.02 0.51</pos>
+         <backgroundColor>00000000</backgroundColor>
+         <color>ffffff</color>
+         <fontPath>./_inc/fonts/junegull rg.otf</fontPath>
+	     <fontSize>0.012</fontSize>
+         <zIndex>401</zIndex>
+         <alignment>center</alignment> 	     
+      </text>
+		<text name="TextDescName" extra="true">
+			<pos>0.707 0.048</pos>
+			<fontPath>./../_inc/fonts/junegull rg.otf</fontPath>
+			<fontSize>0.035</fontSize>
+			<lineSpacing>1.1</lineSpacing>
+			<zIndex>800</zIndex>
+			<storyboard>
+				<animation property="opacity" to="0" begin="0" duration="0" mode="linear"/>
+				<animation property="opacity" from="0" to="1" begin="4500" duration="1000" mode="EaseIn"/>
+			</storyboard>
+		</text>        
+		<text name="TextDescLong" extra="true">
+			<size>0.24 0.62</size>
+			<pos>0.707 0.12</pos>
+			<fontPath>./../_inc/fonts/junegull rg.otf</fontPath>
+			<fontSize>0.017</fontSize>
+			<lineSpacing>1.08</lineSpacing>
+			<zIndex>800</zIndex>
+			<storyboard>
+				<animation property="opacity" to="0" begin="0" duration="0" mode="linear"/>
+				<animation property="opacity" from="0" to="1" begin="4500" duration="1000" mode="EaseIn"/>
+			</storyboard>
+		</text>  
+		<text name="TextDescShort" extra="true">
+			<pos>1.2 0.048</pos>
+			<fontPath>./../_inc/fonts/junegull rg.otf</fontPath>
+			<color>000000</color>
+			<fontSize>0.035</fontSize>
+			<lineSpacing>1.1</lineSpacing>
+			<zIndex>800</zIndex>
+			<storyboard>
+				<animation property="opacity" to="0" begin="0" duration="0" mode="linear"/>
+				<animation property="opacity" from="0" to="1" begin="4500" duration="1000" mode="EaseIn"/>
+			</storyboard>	
+		</text>	 
+      
+		<text name="TextDescCategory" extra="true">
+            <pos>0.07 0.51</pos>
+			<fontPath>./../_inc/fonts/junegull rg.otf</fontPath>
+			<color>000000</color>
+			<fontSize>0.015</fontSize>
+			<lineSpacing>1.1</lineSpacing>
+			<zIndex>800</zIndex>
+			<storyboard>
+				<animation property="opacity" to="0" begin="0" duration="0" mode="linear"/>
+				<animation property="opacity" from="0" to="1" begin="4500" duration="1000" mode="EaseIn"/>
+			</storyboard>	
+		</text>	      
+		<text name="TextDescYear" extra="true">
+			<pos>0.187 0.51</pos>
+			<fontPath>./../_inc/fonts/junegull rg.otf</fontPath>
+			<color>000000</color>
+			<fontSize>0.015</fontSize>
+			<lineSpacing>1.1</lineSpacing>
+			<zIndex>800</zIndex>
+			<storyboard>
+				<animation property="opacity" to="0" begin="0" duration="0" mode="linear"/>
+				<animation property="opacity" from="0" to="1" begin="4500" duration="1000" mode="EaseIn"/>
+			</storyboard>	
+		</text>		
+		               
+     <image name="logo">	   
+	   </image>
+	   
+	   
+      <image name="background3" extra="true">
+         <origin>0 0</origin>
+         <pos>-0.3333333333 0</pos>
+         <size>1.3333333333 1</size>
+         <zIndex>3</zIndex>                 
+         <path>./_inc/room.png</path>         
+      </image>
+
+      <image name="background50" extra="true">
+         <origin>0 0</origin>
+         <pos>-0.3333333333 0</pos>
+         <size>1.3333333333 1</size>
+         <zIndex>1</zIndex>                 
+         <path>./_inc/images/defaultness.png</path>         
+      </image>
+      
+	 <video name="backgroundvideo2" extra="true">
+        <default>./_inc/videos/_static.mp4</default>
+        <path>{random}</path>          
+        <visible>true</visible>	 	 
+        <rotation>0</rotation>  
+        <roundCorners>0.00</roundCorners>             
+        <pos>0.52 0.315</pos>
+        <origin>0.5 0.5</origin>
+        <size>0.165 0.24</size>
+        <color>FFFFFF</color>
+        <zIndex>2</zIndex>         
+     </video>   
+            
+      <image name="background10" extra="true">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>
+         <zIndex>900</zIndex>                 
+         <path>./_inc/cab.png</path>
+			<storyboard>
+				<animation property="opacity" to="1" begin="0" duration="0" mode="linear"/>
+				<animation property="opacity" from="1" to="0" begin="1500" duration="1000" mode="EaseIn"/>
+			</storyboard>         
+      </image>      
+      
+      <image name="background" extra="true">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>
+         <zIndex>5</zIndex>                 
+         <path>./_inc/images/wheelhangerRS.png</path>
+	  <storyboard>
+				<animation property="x" from="0" to="1" begin="4000" duration="1000" mode="EaseIn"/>
+      </storyboard>                          
+      </image>
+      <image name="background7" extra="true">
+         <origin>0 0</origin>        
+         <pos>0 0</pos>
+         <size>1 1.02</size>
+         <zIndex>700</zIndex>                 
+         <path>./_inc/images/overlay3.png</path>
+	  <storyboard>
+				<animation property="opacity" to="0" begin="0" duration="0" mode="linear"/>
+				<animation property="opacity" from="0" to="1" begin="4000" duration="1000" mode="EaseIn"/>
+      </storyboard>         
+      </image>
+      <image name="background27" extra="true">
+         <origin>0 0</origin>
+         <pos>1 0</pos>
+         <size>0.4166666666 1</size>
+         <zIndex>900</zIndex>                 
+	  <storyboard>
+			<animation property="x" from="1" to="0.62" begin="4000" duration="1000" mode="EaseIn"/>
+      </storyboard>         
+      </image> 
+      
+      <image name="background33" extra="true">
+         <origin>0 0</origin>
+         <pos>0.15 0.039</pos>
+         <size>0.3 1</size>
+         <zIndex>925</zIndex>                 
+	  <storyboard>
+				<animation property="opacity" to="0" begin="0" duration="0" mode="linear"/>
+				<animation property="opacity" from="0" to="1" begin="4500" duration="1000" mode="EaseIn"/>
+      </storyboard>         
+      </image>
+            
+      <image name="background34" extra="true">
+         <origin>0 0</origin>
+         <pos>-0.3333333333 0</pos>
+         <size>1.3333333333 1</size>
+         <zIndex>4</zIndex>                         
+      </image>
+
+      <image name="background44" extra="true">
+         <origin>0 0</origin>
+         <pos>-0.3333333333 0</pos>
+         <size>1.3333333333 1</size>
+         <zIndex>4</zIndex>                         
+      </image>
+      
+      <image name="background35" extra="true">
+         <origin>0 0</origin>
+         <pos>-0.08 0.037</pos>
+         <size>0.3 1</size>
+         <zIndex>900</zIndex>                 
+	  <storyboard>
+				<animation property="opacity" to="0" begin="0" duration="0" mode="linear"/>
+				<animation property="opacity" from="0" to="1" begin="4500" duration="1000" mode="EaseIn"/>
+      </storyboard>         
+      </image>       
+                              	   			 
+    </view>
+    
+      
+    
+    <view name="video,basic,detailed"> 
+   </view>
+    <view name="grid">  
+   </view>  	   
+    </theme>

@@ -1,0 +1,9 @@
+<theme>
+   <formatVersion>7</formatVersion>
+
+      <view name="system">
+      <image name="background35" extra="true">               
+         <path>./_inc/images/blank.png</path>      
+      </image>                         	   			 
+    </view> 	   
+    </theme>

@@ -1,0 +1,10 @@
+<theme>
+   <formatVersion>7</formatVersion>
+
+      <view name="system">
+      
+      <image name="background44" extra="true">               
+         <path>./_inc/images/floor3.png</path>      
+      </image>                         	   			 
+    </view> 	   
+    </theme>
