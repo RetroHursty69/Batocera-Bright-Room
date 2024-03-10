@@ -1,0 +1,10 @@
+<theme>
+   <formatVersion>7</formatVersion>
+
+      <view name="system">
+      
+      <image name="background34" extra="true">               
+         <path>./_inc/images/wallpaper19.png</path>      
+      </image>                         	   			 
+    </view> 	   
+    </theme>

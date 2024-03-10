@@ -8,23 +8,23 @@
 			</image>
 			
 		<text name="TextDescLong" extra="true">
-				<text>Game collections a lists and collation of games of a particular genre, style or character focus. Examples: Card Games, Platform Games, Batman Games, Fighting Games, Puzzle Games, Street Fighter Games etc.</text>
+				<text>Were you the greatest in your day at Mega Drive, SNES, or PlayStation 2 games? Wanna prove it? Use our supported emulators and you will obtain achievements and badges as you play! Your progress will be tracked so you can compete with your friends to complete all your favorite classics to 100%: we provide the emulators, all you need are the games!</text>
 		</text>
 
 		<text name="TextDescShort" extra="true">
-				<text>Game collections a lists and collation of games of a particular genre, style or character focus.</text>
+				<text>Use our supported emulators and you will obtain achievements and badges as you play!</text>
 		</text>
 		
 		<text name="TextDescName" extra="true">
-				<text>Collections</text>
+				<text>Retro Achievements</text>
 		</text>
 
 		<text name="TextDescCategory" extra="true">
-				<text>Collection</text>
+				<text>Other</text>
 		</text>	
 
 		<text name="TextDescYear" extra="true">
-				<text>All</text>
+				<text>2012</text>
 		</text>			
 		
 	</view>	

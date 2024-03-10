@@ -38,8 +38,9 @@ Carousel wheel and main menu background
    <include subset="Wheel" name="Oval Colorful">./wheel3.xml</include>
    <include subset="Wheel" name="Transparent">./wheel5.xml</include>  
 
-   <include subset="Character" name="Yes">./charyes.xml</include> 
-   <include subset="Character" name="No">./charno.xml</include>
+   <include subset="Side Option" name="Character 1">./char1.xml</include>
+   <include subset="Side Option" name="Character 2">./char2.xml</include> 
+   <include subset="Side Option" name="System Info">./charno.xml</include>
    
    <include subset="Wall Overlay" name="Brick Natural">./wall1.xml</include> 
    <include subset="Wall Overlay" name="Brick Grey">./wall2.xml</include>
@@ -47,13 +48,21 @@ Carousel wheel and main menu background
    <include subset="Wall Overlay" name="Neon Retro">./wall4.xml</include>
    <include subset="Wall Overlay" name="Timber">./wall5.xml</include>
    <include subset="Wall Overlay" name="Stone">./wall6.xml</include>
-   <include subset="Wall Overlay" name="Pacman">./wall7.xml</include>
+   <include subset="Wall Overlay" name="Pacman Dots">./wall7.xml</include>
+   <include subset="Wall Overlay" name="Pacman">./wall15.xml</include>
    <include subset="Wall Overlay" name="Invaders">./wall8.xml</include>
    <include subset="Wall Overlay" name="City">./wall9.xml</include>
    <include subset="Wall Overlay" name="Retro">./wall10.xml</include>
-   <include subset="Wall Overlay" name="70's'">./wall11.xml</include>
-   <include subset="Wall Overlay" name="90's'">./wall12.xml</include>  
-   <include subset="Wall Overlay" name="Off">./wallno.xml</include>
+   <include subset="Wall Overlay" name="70's">./wall11.xml</include>
+   <include subset="Wall Overlay" name="90's">./wall12.xml</include>
+   <include subset="Wall Overlay" name="Game Montage">./wall13.xml</include>
+   <include subset="Wall Overlay" name="Nintenyellow">./wall20.xml</include>  
+   <include subset="Wall Overlay" name="Nintendo World">./wall16.xml</include>
+   <include subset="Wall Overlay" name="Nintendo Montage">./wall19.xml</include>
+   <include subset="Wall Overlay" name="Sonic World">./wall17.xml</include>
+   <include subset="Wall Overlay" name="Crash World">./wall18.xml</include>
+   <include subset="Wall Overlay" name="Wavey Lines">./wall14.xml</include>   
+   <include subset="Wall Overlay" name="Disable">./wallno.xml</include>
    
    <include subset="Floor Overlay" name="Grey Tiles">./floor1.xml</include>
    <include subset="Floor Overlay" name="Timber Light">./floor2.xml</include>
@@ -64,8 +73,8 @@ Carousel wheel and main menu background
    <include subset="Floor Overlay" name="Blue Tiles">./floor7.xml</include>
    <include subset="Floor Overlay" name="Red Carpet">./floor8.xml</include>
    <include subset="Floor Overlay" name="Bright Carpet">./floor9.xml</include>
-   <include subset="Floor Overlay" name="70's Carpet'">./floor10.xml</include>
-   <include subset="Floor Overlay" name="Off">./floorno.xml</include>      
+   <include subset="Floor Overlay" name="70's Carpet">./floor10.xml</include>
+   <include subset="Floor Overlay" name="Disable">./floorno.xml</include>      
    
    <include subset="Add-on" name="Gumball 1">./addon1gumball1.xml</include> 
    <include subset="Add-on" name="Gumball 2">./addon1gumball2.xml</include>
@@ -73,19 +82,22 @@ Carousel wheel and main menu background
    <include subset="Add-on" name="Basketball">./addon1basketball1.xml</include>
    <include subset="Add-on" name="Backpack">./addon1backpack1.xml</include>
    <include subset="Add-on" name="Lamp">./addon1lamp1.xml</include>
-   <include subset="Add-on" name="Off">./addon1no.xml</include> 
+   <include subset="Add-on" name="Disable">./addon1no.xml</include> 
    
    <include subset="Add-on Extra" name="Plant 1">./plant1.xml</include>
    <include subset="Add-on Extra" name="Plant 2">./plant2.xml</include>
    <include subset="Add-on Extra" name="Trash Can">./trashcan1.xml</include>
    <include subset="Add-on Extra" name="Rubbish Bin">./trashcan2.xml</include>
+   <include subset="Add-on Extra" name="Table Phone">./table7.xml</include>
+   <include subset="Add-on Extra" name="Table Snack">./table8.xml</include>
+   <include subset="Add-on Extra" name="Table RubikBoy">./table9.xml</include>
    <include subset="Add-on Extra" name="Table Mario">./table1.xml</include>
    <include subset="Add-on Extra" name="Table Sonic">./table2.xml</include>
    <include subset="Add-on Extra" name="Table Crash B">./table3.xml</include>
    <include subset="Add-on Extra" name="Table Pacman">./table4.xml</include>
    <include subset="Add-on Extra" name="Table SF">./table5.xml</include>
    <include subset="Add-on Extra" name="Table MK">./table6.xml</include> 
-   <include subset="Add-on Extra" name="Off">./addonextrano.xml</include>           
+   <include subset="Add-on Extra" name="Disable">./addonextrano.xml</include>            
  
 	<view name="system">	
 
