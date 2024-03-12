@@ -161,8 +161,8 @@
          <origin>0 0</origin>
          <pos>0 0</pos>
          <size>1 1</size>
-         <zIndex>5</zIndex>                 
-         <path>./_inc/images/wheelhangerRS.png</path>
+         <zIndex>5</zIndex>
+         <path>./_inc/images/wheelhangerRS.png</path>                          
 	  <storyboard>
 				<animation property="x" from="0" to="1" begin="4000" duration="1000" mode="EaseIn"/>
       </storyboard>                          
@@ -225,8 +225,7 @@
       </image>       
                               	   			 
     </view>
-    
-      
+        
     
     <view name="video,basic,detailed"> 
    </view>

@@ -4,7 +4,7 @@
      <image name="logo">
        <linearSmooth>true</linearSmooth>
 	   <path>./_inc/images/wheel_default5.png</path>
-	   <path>./${system.theme}/_inc/system4.png</path>
+	   <path>./${system.theme}/_inc/system5.png</path>
 	   </image>             	   			 
     </view> 	   
 </theme>

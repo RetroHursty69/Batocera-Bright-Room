@@ -149,7 +149,7 @@
          <origin>0 0</origin>
          <pos>0 0</pos>
          <size>1 1</size>
-         <zIndex>4</zIndex>                 
+         <zIndex>5</zIndex>                 
          <path>./_inc/images/wheelhangerLS.png</path>
 	  <storyboard>
 				<animation property="x" from="0" to="-1" begin="4000" duration="1000" mode="EaseIn"/>

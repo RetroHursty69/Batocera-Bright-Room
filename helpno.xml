@@ -1,0 +1,12 @@
+<theme>
+   <formatVersion>7</formatVersion>
+
+   <view name="system,gamecarousel,grid,basic,detailed,video">
+      <helpsystem name="help">   
+         <pos>0.51 1.02</pos>      
+         <textColor>00000000</textColor>
+         <iconColor>00000000</iconColor>        
+      </helpsystem>
+   </view> 
+   	   
+    </theme>

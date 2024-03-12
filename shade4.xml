@@ -1,0 +1,16 @@
+<theme>
+   <formatVersion>7</formatVersion>
+
+   <view name="system">
+      <image name="background" extra="true">
+      <opacity>0.85</opacity>                
+         <color>3216da</color>                        
+      </image>
+   </view> 
+<view name="gamecarousel">
+      <image name="background3" extra="true">
+      <opacity>0.85</opacity> 
+         <color>3216da</color>
+      </image>      			  
+ </view>    	   
+    </theme>
