@@ -1,0 +1,8 @@
+<theme>
+   <formatVersion>7</formatVersion>
+    <view name="system">          
+      <image name="background200" extra="true">              
+         <path>./_inc/images/pointer5.png</path>       
+      </image>             	   			 
+    </view> 	   
+</theme>

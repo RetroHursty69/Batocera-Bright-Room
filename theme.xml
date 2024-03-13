@@ -102,6 +102,7 @@ Carousel wheel and main menu background
    <include subset="Add-on Extra" name="Disable">./addonextrano.xml</include>
    
    <include subset="Wheel Shade" name="White">./shade1.xml</include>
+   <include subset="Wheel Shade" name="Black">./shade9.xml</include>
    <include subset="Wheel Shade" name="Red">./shade2.xml</include>
    <include subset="Wheel Shade" name="Purple">./shade3.xml</include>
    <include subset="Wheel Shade" name="Blue">./shade4.xml</include>
@@ -109,6 +110,14 @@ Carousel wheel and main menu background
    <include subset="Wheel Shade" name="Green">./shade6.xml</include>
    <include subset="Wheel Shade" name="Yellow">./shade7.xml</include>
    <include subset="Wheel Shade" name="Orange">./shade8.xml</include>
+   
+   <include subset="Carousel Pointer" name="White Arrow">./pointer1.xml</include>
+   <include subset="Carousel Pointer" name="Hand">./pointer2.xml</include>
+   <include subset="Carousel Pointer" name="Star">./pointer3.xml</include>
+   <include subset="Carousel Pointer" name="Pokemon Ball">./pointer4.xml</include>
+   <include subset="Carousel Pointer" name="Dart">./pointer5.xml</include>
+   <include subset="Carousel Pointer" name="Controller">./pointer6.xml</include>
+   <include subset="Carousel Pointer" name="Disable">./pointer0.xml</include>
    
    <include subset="Display Help" name="Yes">./helpyes.xml</include>
    <include subset="Display Help" name="No">./helpno.xml</include>            

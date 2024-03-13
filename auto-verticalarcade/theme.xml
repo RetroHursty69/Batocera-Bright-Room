@@ -1,0 +1,32 @@
+<theme>
+	<formatVersion>7</formatVersion>
+	<include>./../theme.xml</include>
+
+		<view name="system, basic, detailed, video, grid, gamecarousel">
+			<image name="logo">
+				<path>./_inc/system.png</path>
+			</image>
+			
+		<text name="TextDescLong" extra="true">
+				<text>A vertical video game is a video game in which the player views the field of play principally from a top-down perspective. The screen is taller than it is wide.</text>
+		</text>
+
+		<text name="TextDescShort" extra="true">
+				<text>A vertical video game is a video game in which the player views the field of play principally from a top-down perspective.</text>
+		</text>
+		
+		<text name="TextDescName" extra="true">
+				<text>Vertical Arcade</text>
+		</text>
+
+		<text name="TextDescCategory" extra="true">
+				<text>Arcade</text>
+		</text>	
+
+		<text name="TextDescYear" extra="true">
+				<text>1974</text>
+		</text>			
+		
+	</view>	
+	
+</theme>
