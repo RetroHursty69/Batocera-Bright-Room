@@ -15,6 +15,8 @@
       
       <image name="background27" extra="true">               
          <path>./${system.theme}/_inc/character2.png</path>      
-      </image>                         	   			 
+      </image> 
+
+  
     </view> 	   
     </theme>

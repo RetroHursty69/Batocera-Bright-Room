@@ -1,0 +1,22 @@
+<theme>
+   <formatVersion>7</formatVersion>
+
+      <view name="system">
+		<text name="TextDescName" extra="true">
+			<color>00000000</color>
+		</text>        
+		<text name="TextDescLong" extra="true">
+			<color>00000000</color>
+		</text>   
+		
+      <image name="background7" extra="true">                
+			<color>00000000</color>        
+      </image>
+      
+      <image name="background27" extra="true">               
+         <path>./${system.theme}/_inc/pinball.png</path>      
+      </image> 
+
+	  
+    </view> 	   
+    </theme>

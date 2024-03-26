@@ -202,7 +202,6 @@
       <image name="background27" extra="true">
          <origin>0 0</origin>
          <pos>-0.58 0</pos>
-         <flipX>1 0</flipX>
          <size>0.4166666666 1</size>
          <zIndex>900</zIndex>                 
 	  <storyboard>
@@ -242,7 +241,7 @@
       </image>      
       <image name="background35" extra="true">
          <origin>0 0</origin>
-         <pos>0.19 0.037</pos>
+         <pos>0.25 0.037</pos>
          <size>0.3 1</size>
          <zIndex>900</zIndex>                 
 	  <storyboard>
@@ -250,7 +249,12 @@
 				<animation property="opacity" from="0" to="1" begin="4500" duration="1000" mode="EaseIn"/>
       </storyboard>         
       </image>       
-                                   	   			 
+        <image name="background200" extra="true">
+         <origin>0 0</origin>
+         <pos>1.93 0.46</pos>
+         <size>0.05 0.09</size>
+         <zIndex>1</zIndex>                       
+      </image>                                  	   			 
     </view>
     <view name="video,basic,detailed"> 
    </view>

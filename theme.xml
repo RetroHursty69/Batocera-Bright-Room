@@ -1,7 +1,9 @@
 <!--
-theme name:     Bright Room MARCH 2024 for Pi5 Batocera suited for 16:9
+theme name:     Bright Room APRIL 2024 for Pi5 Batocera suited for 16:9
 creator:		Dwayne Hurst (aka Hursty)
-version         1.0
+notes:			only covers english language
+systems:		was built for the 512GN wolfanoz batocera pi5 image, not for huge batocera images with tons of systems
+version:        1.0
 -->
 
 <?xml version="1.0" encoding="UTF-8"?>
@@ -41,10 +43,13 @@ Carousel wheel and main menu background
    <include subset="Wheel" name="Logo Only">./wheel2.xml</include>  
 
    <include subset="Side Option" name="Character 1">./char1.xml</include>
-   <include subset="Side Option" name="Character 2">./char2.xml</include> 
+   <include subset="Side Option" name="Character 2">./char2.xml</include>
+   <include subset="Side Option" name="Pinball">./char3.xml</include>
+   <include subset="Side Option" name="Banner">./char4.xml</include>   
    <include subset="Side Option" name="System Info">./charno.xml</include>
    
-   <include subset="Wall Overlay" name="Brick Natural">./wall1.xml</include> 
+   <include subset="Wall Overlay" name="Brick Natural">./wall1.xml</include>
+   <include subset="Wall Overlay" name="Wolfanoz">./wall34.xml</include>
    <include subset="Wall Overlay" name="Brick Grey">./wall2.xml</include>
    <include subset="Wall Overlay" name="Wallpaper">./wall3.xml</include> 
    <include subset="Wall Overlay" name="Neon Retro">./wall4.xml</include>
@@ -63,7 +68,20 @@ Carousel wheel and main menu background
    <include subset="Wall Overlay" name="Nintendo Montage">./wall19.xml</include>
    <include subset="Wall Overlay" name="Sonic World">./wall17.xml</include>
    <include subset="Wall Overlay" name="Crash World">./wall18.xml</include>
-   <include subset="Wall Overlay" name="Wavey Lines">./wall14.xml</include>   
+   <include subset="Wall Overlay" name="Wavey Lines">./wall14.xml</include>
+   <include subset="Wall Overlay" name="Horizon">./wall21.xml</include>
+   <include subset="Wall Overlay" name="Neon Arcade">./wall22.xml</include>
+   <include subset="Wall Overlay" name="Purple 90's">./wall23.xml</include>
+   <include subset="Wall Overlay" name="Crazy">./wall24.xml</include>
+   <include subset="Wall Overlay" name="Breakthrough">./wall25.xml</include>
+   <include subset="Wall Overlay" name="Psycho">./wall26.xml</include>
+   <include subset="Wall Overlay" name="Night View">./wall27.xml</include>
+   <include subset="Wall Overlay" name="Cassette Tapes">./wall28.xml</include>
+   <include subset="Wall Overlay" name="Brick Waves">./wall29.xml</include>
+   <include subset="Wall Overlay" name="Star Wars">./wall30.xml</include>
+   <include subset="Wall Overlay" name="Street Fighter">./wall31.xml</include>
+   <include subset="Wall Overlay" name="Purpleness">./wall32.xml</include>
+   <include subset="Wall Overlay" name="Zelda">./wall33.xml</include>
    <include subset="Wall Overlay" name="Disable">./wallno.xml</include>
    
    <include subset="Floor Overlay" name="Grey Tiles">./floor1.xml</include>
@@ -76,6 +94,15 @@ Carousel wheel and main menu background
    <include subset="Floor Overlay" name="Red Carpet">./floor8.xml</include>
    <include subset="Floor Overlay" name="Bright Carpet">./floor9.xml</include>
    <include subset="Floor Overlay" name="70's Carpet">./floor10.xml</include>
+   <include subset="Floor Overlay" name="Timber">./floor11.xml</include>
+   <include subset="Floor Overlay" name="Timber Shapes">./floor12.xml</include>
+   <include subset="Floor Overlay" name="Concrete">./floor13.xml</include>
+   <include subset="Floor Overlay" name="Bowling Alley">./floor14.xml</include>
+   <include subset="Floor Overlay" name="Blue Carpet">./floor15.xml</include>
+   <include subset="Floor Overlay" name="Color Cubes">./floor16.xml</include>
+   <include subset="Floor Overlay" name="Color Swirls">./floor17.xml</include>
+   <include subset="Floor Overlay" name="Ugly">./floor18.xml</include>
+   <include subset="Floor Overlay" name="Smooth">./floor19.xml</include>
    <include subset="Floor Overlay" name="Disable">./floorno.xml</include>      
    
    <include subset="Add-on" name="Gumball 1">./addon1gumball1.xml</include> 
@@ -83,6 +110,11 @@ Carousel wheel and main menu background
    <include subset="Add-on" name="Skateboard">./addon1skateboard1.xml</include>
    <include subset="Add-on" name="Basketball">./addon1basketball1.xml</include>
    <include subset="Add-on" name="Backpack">./addon1backpack1.xml</include>
+   <include subset="Add-on" name="Speaker">./speaker.xml</include>
+   <include subset="Add-on" name="football">./football.xml</include>
+   <include subset="Add-on" name="Boom Box">./boombox.xml</include>
+   <include subset="Add-on" name="Bean Bag Green">./beanbagg.xml</include>
+   <include subset="Add-on" name="Bean Bag Orange">./beanbago.xml</include>
    <include subset="Add-on" name="Lamp">./addon1lamp1.xml</include>
    <include subset="Add-on" name="Disable">./addon1no.xml</include> 
    
@@ -90,6 +122,9 @@ Carousel wheel and main menu background
    <include subset="Add-on Extra" name="Plant 2">./plant2.xml</include>
    <include subset="Add-on Extra" name="Trash Can">./trashcan1.xml</include>
    <include subset="Add-on Extra" name="Rubbish Bin">./trashcan2.xml</include>
+   <include subset="Add-on Extra" name="Fan">./fan.xml</include>
+   <include subset="Add-on Extra" name="Boom Box">./boomboxl.xml</include>
+   <include subset="Add-on Extra" name="Extinguisher">./extinguisher.xml</include>
    <include subset="Add-on Extra" name="Table Phone">./table7.xml</include>
    <include subset="Add-on Extra" name="Table Snack">./table8.xml</include>
    <include subset="Add-on Extra" name="Table RubikBoy">./table9.xml</include>

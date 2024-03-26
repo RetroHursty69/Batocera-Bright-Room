@@ -3,8 +3,8 @@
 
       <view name="system">
       
-      <image name="background55" extra="true">               
-         <path>./_inc/images/dude50.png</path>      
+      <image name="background34" extra="true">               
+         <path>./_inc/images/wallpaper26.png</path>      
       </image>                         	   			 
     </view> 	   
     </theme>

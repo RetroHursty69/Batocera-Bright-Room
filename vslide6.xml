@@ -238,7 +238,7 @@
       </image>       
       <image name="background200" extra="true">
          <origin>0 0</origin>
-         <pos>0.02 0.46</pos>
+         <pos>1.02 0.46</pos>
          <size>0.05 0.09</size>
          <zIndex>950</zIndex>
          <flipX>0 0</flipX>                 

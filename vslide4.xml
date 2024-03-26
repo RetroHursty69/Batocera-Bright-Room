@@ -179,8 +179,7 @@
       </storyboard>         
       </image> 
       <image name="background27" extra="true">
-         <origin>0 0</origin>
-         <flipX>1 0</flipX>         
+         <origin>0 0</origin>      
          <pos>-0.58 0</pos>
          <size>0.4166666666 1</size>
          <zIndex>900</zIndex>                 
@@ -219,7 +218,7 @@
       </image>      
       <image name="background35" extra="true">
          <origin>0 0</origin>
-         <pos>0.19 0.037</pos>
+         <pos>0.25 0.037</pos>
          <size>0.3 1</size>
          <zIndex>900</zIndex>                 
 	  <storyboard>
