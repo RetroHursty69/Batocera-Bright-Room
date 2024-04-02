@@ -2,7 +2,7 @@
 theme name:     Bright Room APRIL 2024 for Pi5 Batocera suited for 16:9
 creator:		Dwayne Hurst (aka Hursty)
 notes:			only covers english language
-systems:		was built for the 512GN wolfanoz batocera pi5 image, not for huge batocera images with tons of systems
+systems:		was built for the 512GB wolfanoz batocera pi5 image, not for huge batocera images with tons of systems
 version:        1.0
 -->
 
@@ -82,6 +82,22 @@ Carousel wheel and main menu background
    <include subset="Wall Overlay" name="Street Fighter">./wall31.xml</include>
    <include subset="Wall Overlay" name="Purpleness">./wall32.xml</include>
    <include subset="Wall Overlay" name="Zelda">./wall33.xml</include>
+   <include subset="Wall Overlay" name="Tetris">./wall35.xml</include>
+   <include subset="Wall Overlay" name="Pac Ghosts">./wall36.xml</include>
+   <include subset="Wall Overlay" name="Plans">./wall37.xml</include>
+   <include subset="Wall Overlay" name="Green Mountains">./wall38.xml</include>
+   <include subset="Wall Overlay" name="Minecraft">./wall39.xml</include>
+   <include subset="Wall Overlay" name="Montage 1">./wall40.xml</include>
+   <include subset="Wall Overlay" name="Montage 2">./wall41.xml</include>
+   <include subset="Wall Overlay" name="GTA">./wall42.xml</include>
+   <include subset="Wall Overlay" name="Mortal Kombat">./wall43.xml</include>
+   <include subset="Wall Overlay" name="KOF">./wall44.xml</include>
+   <include subset="Wall Overlay" name="Snes Box">./wall45.xml</include>
+   <include subset="Wall Overlay" name="Tendo">./wall46.xml</include>
+   <include subset="Wall Overlay" name="Montage 3">./wall47.xml</include>
+   <include subset="Wall Overlay" name="Sonic Rally">./wall48.xml</include>
+   <include subset="Wall Overlay" name="Spiderman">./wall49.xml</include>
+   <include subset="Wall Overlay" name="Smash Bros">./wall50.xml</include>
    <include subset="Wall Overlay" name="Disable">./wallno.xml</include>
    
    <include subset="Floor Overlay" name="Grey Tiles">./floor1.xml</include>
@@ -103,6 +119,12 @@ Carousel wheel and main menu background
    <include subset="Floor Overlay" name="Color Swirls">./floor17.xml</include>
    <include subset="Floor Overlay" name="Ugly">./floor18.xml</include>
    <include subset="Floor Overlay" name="Smooth">./floor19.xml</include>
+   <include subset="Floor Overlay" name="Tendo">./floor20.xml</include>
+   <include subset="Floor Overlay" name="Pac Ghosts">./floor21.xml</include>
+   <include subset="Floor Overlay" name="Orange Creme">./floor22.xml</include>
+   <include subset="Floor Overlay" name="Fallout">./floor23.xml</include>
+   <include subset="Floor Overlay" name="NintenCubes">./floor24.xml</include>
+   <include subset="Floor Overlay" name="Color Squares">./floor25.xml</include>
    <include subset="Floor Overlay" name="Disable">./floorno.xml</include>      
    
    <include subset="Add-on" name="Gumball 1">./addon1gumball1.xml</include> 
