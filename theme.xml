@@ -142,11 +142,20 @@ Carousel wheel and main menu background
    
    <include subset="Add-on Extra" name="Plant 1">./plant1.xml</include>
    <include subset="Add-on Extra" name="Plant 2">./plant2.xml</include>
+   <include subset="Add-on Extra" name="Plant 3">./addon7.xml</include>
    <include subset="Add-on Extra" name="Trash Can">./trashcan1.xml</include>
    <include subset="Add-on Extra" name="Rubbish Bin">./trashcan2.xml</include>
    <include subset="Add-on Extra" name="Fan">./fan.xml</include>
    <include subset="Add-on Extra" name="Boom Box">./boomboxl.xml</include>
    <include subset="Add-on Extra" name="Extinguisher">./extinguisher.xml</include>
+   <include subset="Add-on Extra" name="Jukebox">./addon1.xml</include>
+   <include subset="Add-on Extra" name="Grand Clock">./addon2.xml</include>
+   <include subset="Add-on Extra" name="Scooter">./addon3.xml</include>
+   <include subset="Add-on Extra" name="Dog">./addon4.xml</include>
+   <include subset="Add-on Extra" name="Cat">./addon5.xml</include>
+   <include subset="Add-on Extra" name="Punch Clown">./addon6.xml</include>
+   <include subset="Add-on Extra" name="Floor Sign">./addon8.xml</include>
+   <include subset="Add-on Extra" name="Closed Sign">./addon9.xml</include>
    <include subset="Add-on Extra" name="Table Phone">./table7.xml</include>
    <include subset="Add-on Extra" name="Table Snack">./table8.xml</include>
    <include subset="Add-on Extra" name="Table RubikBoy">./table9.xml</include>
