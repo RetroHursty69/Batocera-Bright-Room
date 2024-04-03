@@ -8,15 +8,15 @@
 			</image>
 			
 		<text name="TextDescLong" extra="true">
-				<text>MS-DOS, short for Microsoft Disk Operating System, was an operating system for x86-based personal computers mostly developed by Microsoft. It was the most commonly used member of the DOS family of operating systems, and was the main operating system for IBM PC compatible personal computers during the 1980s to the mid-1990s, when it was gradually superseded by operating systems offering a graphical user interface (GUI), in various generations of the Microsoft Windows operating system.</text>
+				<text>Windows is a group of several proprietary graphical operating system families developed and marketed by Microsoft. Each family caters to a certain sector of the computing industry. Active Windows families include Windows NT and Windows IoT; these may encompass subfamilies (e.g. Windows Server or Windows Embedded Compact/Windows CE).</text>
 		</text>
 
 		<text name="TextDescShort" extra="true">
-				<text>MS-DOS, short for Microsoft Disk Operating System, was an operating system for x86-based personal computers mostly developed by Microsoft.</text>
+				<text>Windows is a group of several proprietary graphical operating system families developed and marketed by Microsoft.</text>
 		</text>
 		
 		<text name="TextDescName" extra="true">
-				<text>Microsoft MS-DOS</text>
+				<text>Microsoft Windows</text>
 		</text>
 
 		<text name="TextDescCategory" extra="true">
@@ -24,7 +24,7 @@
 		</text>	
 
 		<text name="TextDescYear" extra="true">
-				<text>1981</text>
+				<text>1985</text>
 		</text>			
 		
 	</view>	
